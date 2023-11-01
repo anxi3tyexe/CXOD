@@ -17,7 +17,7 @@ export default function Home() {
           Спросите их сами!
         </h1>
         <p className='mt-5 max-w-prose text-zinc-700 sm:text-xl'>
-          CXOD это переводчик с документовского. Загрузите файл и задайте ему
+          Juliett это переводчик с документовского. Загрузите файл и задайте ему
           пару вопросов!
         </p>
 
@@ -86,7 +86,7 @@ export default function Home() {
               Начните в считанные секунды
             </h2>
             <p className='mt-4 text-lg text-gray-600'>
-              CXOD - все что нужно для беседы
+              Juliett - все что нужно для беседы
             </p>
           </div>
         </div>
@@ -115,7 +115,7 @@ export default function Home() {
                 Загрузите свой PDF документ
               </span>
               <span className='mt-2 text-zinc-700'>
-                А CXOD позаботится об остальном
+                А Juliett позаботится об остальном
               </span>
             </div>
           </li>
